@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-From iOS developer to Program Manager, Now is a Back-end software Developer , focus on PHP/Laravel framework. 
+Used to be an iOS developer, Program Manager...
+
+Now is a Back-end software Developer , focus on PHP/Laravel framework. 
 
 <!--
 **kiddchantw/kiddchantw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
